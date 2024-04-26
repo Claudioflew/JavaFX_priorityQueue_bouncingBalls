@@ -59,7 +59,7 @@ public class Assignment13 extends Application {
         pane.setTop(buttonBox);
         pane.setBottom(sbSpeed);
 
-        Scene scene = new Scene(pane, 450, 500);
+        Scene scene = new Scene(pane, 450, 550);
         stage.setTitle("Assignment 13: Multiple Bouncing Balls");
         stage.setScene(scene);
         stage.show();
